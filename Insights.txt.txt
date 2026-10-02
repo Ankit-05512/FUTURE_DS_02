@@ -1,0 +1,64 @@
+# FUTURE_DS_02 — Task 2: Customer Churn Analysis Insights
+
+## 1. Overall Churn Analysis
+
+* The analysis focuses on understanding customer churn and identifying patterns associated with customers leaving the service.
+* Customer churn is an important business metric because losing existing customers can affect recurring revenue and overall business growth.
+* The dataset was analyzed to identify customer characteristics and factors associated with churn.
+
+## 2. Churn Rate
+
+* The overall churn rate provides an indication of the proportion of customers who have discontinued the service.
+* Comparing churned and retained customers helps identify the scale of customer retention challenges.
+* Monitoring churn rate over time can help evaluate whether retention strategies are improving customer loyalty.
+
+## 3. Customer Retention
+
+* Retained customers represent customers who continue using the service.
+* Understanding the characteristics of retained customers can help identify patterns associated with longer customer relationships.
+* Retention analysis can support the development of targeted customer-engagement strategies.
+
+## 4. Customer Demographics
+
+* Churn patterns can vary across different customer demographic groups.
+* Comparing churn and retention across demographic segments can help identify groups with relatively higher churn.
+* Demographic analysis should be combined with behavioral and service-related variables for better interpretation.
+
+## 5. Contract / Subscription Analysis
+
+* Customer churn can differ depending on the type of contract or subscription.
+* Customers with shorter-term arrangements may show different retention patterns compared with customers on longer-term contracts.
+* Contract-level analysis can help identify areas where customer retention efforts may be useful.
+
+## 6. Tenure Analysis
+
+* Customer tenure provides information about how long customers have remained with the service.
+* Comparing churn across tenure groups can help identify whether churn is concentrated among newer or longer-term customers.
+* Early-stage customer engagement may be important for improving long-term retention.
+
+## 7. Charges and Revenue
+
+* Customer charges can be compared between churned and retained customers.
+* Differences in monthly or total charges can help identify relationships between pricing, customer value, and churn.
+* Revenue-related metrics should be evaluated together with customer behavior rather than being considered independently.
+
+## 8. Service Usage
+
+* Service-related variables can provide useful information about differences between churned and retained customers.
+* Customers using fewer services or experiencing differences in service engagement may require further investigation.
+* Understanding service usage patterns can help businesses improve customer experience and retention.
+
+## 9. Key Business Takeaways
+
+* Churn analysis helps identify customer groups that may require greater retention attention.
+* Contract type, tenure, charges, demographics, and service usage can be examined as potential churn-related factors.
+* Comparing churned and retained customers provides a clearer understanding of customer behavior.
+* Customer retention should be monitored regularly rather than relying only on overall churn rate.
+
+## 10. Recommendations
+
+* Monitor customer groups with relatively high churn rates.
+* Pay particular attention to customers during the early stages of their relationship.
+* Analyze contract and pricing patterns associated with higher churn.
+* Improve customer engagement and service experience for at-risk segments.
+* Use regular churn dashboards to track changes in customer retention performance.
